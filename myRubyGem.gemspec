@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = MyRubyGem::VERSION
   spec.authors       = ["joinabhimanyu"]
   spec.email         = ["joinabhimanyu@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "myRubyGem!"
+  spec.description   = "a simple gem for pets"
+  spec.homepage      = "http://rubygems.org/gems/myRubyGem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
