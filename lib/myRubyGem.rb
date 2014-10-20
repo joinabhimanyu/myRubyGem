@@ -54,6 +54,7 @@ module MyRubyGem
   cat.scratch
 
   puts "Program terminated"
+  puts "Yet another dialog"
 
 end
 
