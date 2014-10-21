@@ -41,21 +41,6 @@ module MyRubyGem
     end
   end
 
-  dog = Dog.new("dog", "f", "black", "barks")
-  dog.showName
-  dog.showGender
-  dog.showColor
-  dog.bark
-
-  cat = Cat.new("cat", "male", "white", "long")
-  cat.showName
-  cat.showGender
-  cat.showColor
-  cat.scratch
-
-  puts "Program terminated"
-  puts "Yet another dialog"
-
 end
 
 
